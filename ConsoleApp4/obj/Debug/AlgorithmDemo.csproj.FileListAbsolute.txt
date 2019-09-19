@@ -1,0 +1,7 @@
+D:\WEI\code\AlgorithmPractice\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\WEI\code\AlgorithmPractice\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\WEI\code\AlgorithmPractice\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\WEI\code\AlgorithmPractice\ConsoleApp4\obj\Debug\AlgorithmDemo.csprojAssemblyReference.cache
+D:\WEI\code\AlgorithmPractice\ConsoleApp4\obj\Debug\AlgorithmDemo.csproj.CoreCompileInputs.cache
+D:\WEI\code\AlgorithmPractice\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\WEI\code\AlgorithmPractice\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
